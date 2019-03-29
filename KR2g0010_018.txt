@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 金佗稡編
-#+DATE: 2019-03-29 20:50:39.740595
+#+DATE: 2019-03-29 20:50:40.059831
 #+PROPERTY: ID KR2g0010
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 18
 <pb:KR2g0010_WYG_018-1a>¶
 　　欽定四庫全書¶
@@ -121,7 +121,7 @@
 精核實之意伏候鈞旨¶
 ¶
 <pb:KR2g0010_WYG_018-6a>¶
-　　乞便宜黜𧷢吏申省劄子¶
+　　乞便宜黜贓吏申省劄子¶
 ¶
 　　檢校少保鎮寜崇信軍節度使充湖北京西路招討使¶
 兼本路營田使岳飛劄子飛一介寒微誤䝉朝廷委寄¶

@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 金佗稡編
-#+DATE: 2019-03-29 20:50:39.782422
+#+DATE: 2019-03-29 20:50:40.102158
 #+PROPERTY: ID KR2g0010
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 28
 <pb:KR2g0010_WYG_028-1a>¶
 　　欽定四庫全書¶
@@ -18,7 +18,7 @@
 ¶
 　　臣珂言今月二十三日準告大父先臣飛追封鄂王臣¶
 已於當日望闕謝恩訖者剡奏籲天辨先世百年之枉¶
-疏恩裂地啓真王一字之封&KR0177;然寵命之頒賁此勲盟¶
+疏恩裂地啓真王一字之封燁然寵命之頒賁此勲盟¶
 <pb:KR2g0010_WYG_028-1b>¶
 之舊臣珂誠惶誠懼頓首頓首竊以國家之尊爵亶為¶
 將相之殊褒以馬燧之元功胙始開於北土若子儀之¶

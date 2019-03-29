@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 金佗稡編
-#+DATE: 2019-03-29 20:50:39.667846
+#+DATE: 2019-03-29 20:50:39.992476
 #+PROPERTY: ID KR2g0010
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 5
 <pb:KR2g0010_WYG_005-1a>¶
 　　欽定四庫全書¶
@@ -296,7 +296,7 @@
 　　平李宗亮賜金蕉酒器討䖍寇擒彭友等平固¶
 石洞入䖍州斬十大王等擒高聚擒張成召赴¶
 <pb:KR2g0010_WYG_005-16b>¶
-行在賜&KR0129;帶鞍馬弓箭等賜宸翰精忠旗除江¶
+行在賜𫀆帶鞍馬弓箭等賜宸翰精忠旗除江¶
 西沿江制置使改江西制置使兼舒蘄州改神¶
 武後軍統制¶
 ¶

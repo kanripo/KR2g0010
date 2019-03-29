@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 金佗稡編
-#+DATE: 2019-03-29 20:50:39.717652
+#+DATE: 2019-03-29 20:50:40.042495
 #+PROPERTY: ID KR2g0010
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 14
 <pb:KR2g0010_WYG_014-1a>¶
 　　欽定四庫全書¶
@@ -279,7 +279,7 @@
 至寛之量在所兼容而㣲臣抱金石圖報之心寧無自¶
 愧所有臣爲將不效獻言悖理之實臣於累奏中固巳¶
 <pb:KR2g0010_WYG_014-14a>¶
-縷陳更不敢諄&KR0232;紊煩聖聽伏望陛下檢㑹臣累次劄¶
+縷陳更不敢諄複紊煩聖聽伏望陛下檢㑹臣累次劄¶
 子追寢成命特降俞音庻使㣲臣少安愚分取進止¶
 ¶
 ¶
